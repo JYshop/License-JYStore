@@ -6,7 +6,9 @@
   
   喜迎新春，TongWeb限量优惠码五枚：jyshop2024 （可抵扣1000）
 
-# Wgcloud
+# Wgcloud(已更新至3.5.1)
+![image](https://github.com/JYshop/License-JYStore/assets/144968313/df501cf6-fa6e-4508-af87-3683ab64d6ff)
+
   Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
 
 # 东方通TongWeb
